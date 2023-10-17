@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'arthur-upload-ai-api.vercel.app'
+  baseURL: 'https://arthur-upload-ai-api.vercel.app'
 })
